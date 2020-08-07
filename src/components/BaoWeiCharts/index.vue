@@ -18,7 +18,7 @@ export default {
   },
   
   mounted(){
-      console.log(this.settingConfig)
+      // console.log(this.settingConfig)
   },
   components: { MyMain },
   data() {
