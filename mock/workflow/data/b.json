@@ -1,0 +1,4361 @@
+{
+    "roles": [
+        {
+            "BrId": 1336,
+            "BrName": "",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 687,
+            "BrName": "123",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 688,
+            "BrName": "1233333",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 1540,
+            "BrName": "iso归档人员",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 301,
+            "BrName": "ISO质量管理员",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 1534,
+            "BrName": "iso中心领导签发",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 10,
+            "BrName": "sadmin",
+            "BrOrder": 10
+        },
+        {
+            "BrId": 690,
+            "BrName": "test1",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 689,
+            "BrName": "test2",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 1349,
+            "BrName": "啊啊啊啊啊",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 413,
+            "BrName": "巴南区规划编制台账查看人员",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 411,
+            "BrName": "巴南区规划局耗材管理人员",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 410,
+            "BrName": "巴南区规划局决策支持人员",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 412,
+            "BrName": "巴南区规划局人员",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 588,
+            "BrName": "巴南用地规划管理人员",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 54,
+            "BrName": "办公室",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 49,
+            "BrName": "办公室分件人",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 45,
+            "BrName": "办公室会议通知分派人",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 47,
+            "BrName": "办公室会议通知接收人",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 1425,
+            "BrName": "办公室审核_建议",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 1467,
+            "BrName": "办公室审核_提案",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 50,
+            "BrName": "办公室主任",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 1601,
+            "BrName": "报送编辑信息人员",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 1599,
+            "BrName": "报送采用信息人员",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 1600,
+            "BrName": "报送生成刊物人员",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 1598,
+            "BrName": "报送信息人员",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 1567,
+            "BrName": "报文登记人员",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 1335,
+            "BrName": "本单位法人测试",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 44,
+            "BrName": "部门办结人",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 46,
+            "BrName": "部门参会人",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 41,
+            "BrName": "部门查询人员",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 61,
+            "BrName": "部门待办任务查看人",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 604,
+            "BrName": "部门集中采购小组成员",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 56,
+            "BrName": "部门经办",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 55,
+            "BrName": "部门领导",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 64,
+            "BrName": "部门主办收文查看人员",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 82,
+            "BrName": "财务管理处室负责人",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 1542,
+            "BrName": "采购类项目外网发布初审人",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 1544,
+            "BrName": "曹局",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 391,
+            "BrName": "测绘处领导",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 574,
+            "BrName": "测绘处人员",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 699,
+            "BrName": "测绘领导地图登记人",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 661,
+            "BrName": "测绘事项创建人",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 702,
+            "BrName": "测绘事项经办",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 389,
+            "BrName": "测绘业务窗口",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 390,
+            "BrName": "测绘业务经办",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 1259,
+            "BrName": "测绘资质事项创建人",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 1428,
+            "BrName": "测试12121",
+            "BrOrder": 1
+        },
+        {
+            "BrId": 1422,
+            "BrName": "测试角色0327001",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 695,
+            "BrName": "策划各部门",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 346,
+            "BrName": "查询用户",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 365,
+            "BrName": "超级查询用户",
+            "BrOrder": 3
+        },
+        {
+            "BrId": 263,
+            "BrName": "超级打印人员",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 618,
+            "BrName": "诚信记录撤回市局审核人",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 1334,
+            "BrName": "城规处",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 1362,
+            "BrName": "城规处处级领导及经办人",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 1359,
+            "BrName": "城规处控规公示汇总人员",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 1429,
+            "BrName": "城规处领导",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 1357,
+            "BrName": "城规处正职领导",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 1378,
+            "BrName": "城设办",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 672,
+            "BrName": "城市设计成果技术审查单位审核",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 477,
+            "BrName": "城市设计技术审查单位",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 498,
+            "BrName": "城市设计技术审查人员",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 671,
+            "BrName": "城市设计中心预入库",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 74,
+            "BrName": "城乡督察使用人员",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 540,
+            "BrName": "城乡规划遥感督察系统使用人员",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 78,
+            "BrName": "城乡规划综合数据库浏览",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 1635,
+            "BrName": "城镇控规任务指派人员",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 1634,
+            "BrName": "城镇控规信息中心复核人员",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 1633,
+            "BrName": "城镇控规信息中心入库人员",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 642,
+            "BrName": "初审人",
+            "BrOrder": 60
+        },
+        {
+            "BrId": 342,
+            "BrName": "处室或区局领导",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 321,
+            "BrName": "处室区局事业单位主要领导",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 35,
+            "BrName": "传阅部门领导",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 36,
+            "BrName": "传阅人",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 658,
+            "BrName": "窗口打证人员",
+            "BrOrder": 1000
+        },
+        {
+            "BrId": 641,
+            "BrName": "窗口登记人员",
+            "BrOrder": 40
+        },
+        {
+            "BrId": 1436,
+            "BrName": "村规划_村镇处处长",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 1411,
+            "BrName": "村规划_村镇处经办",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 1585,
+            "BrName": "村规划_区局或市调查监测院任务发起人",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 1594,
+            "BrName": "村规划_区局任务发起人",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 1412,
+            "BrName": "村规划_市调查监测院",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 1595,
+            "BrName": "村规划_市调查监测院分件人",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 1481,
+            "BrName": "村规划_市调查监测院复核人",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 1480,
+            "BrName": "村规划_市调查监测院技术审查人",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 1479,
+            "BrName": "村规划_市调查监测院接件人",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 1482,
+            "BrName": "村规划_市调查监测院领导",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 1414,
+            "BrName": "村规划_信息中心初审人",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 1413,
+            "BrName": "村规划_信息中心分发人",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 1415,
+            "BrName": "村规划_信息中心复核人",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 1417,
+            "BrName": "村规划_信息中心签发人",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 1416,
+            "BrName": "村规划_信息中心审定人",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 1520,
+            "BrName": "村规划_信息中心数据部分发人",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 1550,
+            "BrName": "村规划_信息中心数据检查",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 1466,
+            "BrName": "村规划进度管理人员",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 1465,
+            "BrName": "村规划进度录入人员",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 1655,
+            "BrName": "村镇处审查",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 42,
+            "BrName": "存档人员",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 294,
+            "BrName": "打分人",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 300,
+            "BrName": "打分审核人",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 645,
+            "BrName": "打字室打字员",
+            "BrOrder": 100
+        },
+        {
+            "BrId": 1620,
+            "BrName": "大渡口和南岸划拨审查接收人",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 384,
+            "BrName": "待办任务旧查看权限",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 416,
+            "BrName": "党风廉政信息发布人员",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 1472,
+            "BrName": "党建信息部门审核人",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 1473,
+            "BrName": "党建信息拟稿人",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 1558,
+            "BrName": "党小组",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 625,
+            "BrName": "档案查询人员",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 86,
+            "BrName": "档案馆人员",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 1443,
+            "BrName": "地理信息处领导",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 1442,
+            "BrName": "地理信息业务窗口",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 1444,
+            "BrName": "地理信息业务经办",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 1589,
+            "BrName": "地票清理区县录入人员",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 1593,
+            "BrName": "地票清理市级审核人员",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 392,
+            "BrName": "地图技术审核组",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 1615,
+            "BrName": "调查监测院副所长",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 1653,
+            "BrName": "调查监测院技术负责人复核",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 1652,
+            "BrName": "调查监测院技术审查",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 1613,
+            "BrName": "调查监测院经办人",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 1614,
+            "BrName": "调查监测院所长",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 1654,
+            "BrName": "调查监测院终审",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 1485,
+            "BrName": "督察处",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 366,
+            "BrName": "督察处经办人",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 367,
+            "BrName": "督察处领导",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 1298,
+            "BrName": "多规地图查看用户",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 579,
+            "BrName": "多规合一访问用户",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 567,
+            "BrName": "多规合一用户",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 697,
+            "BrName": "发改委",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 329,
+            "BrName": "发文办公室初审人",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 328,
+            "BrName": "发文办公室主任",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 330,
+            "BrName": "发文编号人",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 333,
+            "BrName": "发文处室编号人员",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 332,
+            "BrName": "发文处室经办人员",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 326,
+            "BrName": "发文处室领导",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 327,
+            "BrName": "发文处室正职领导",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 331,
+            "BrName": "发文打字室打字员",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 1316,
+            "BrName": "发文局长复核",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 355,
+            "BrName": "发文局副领导",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 353,
+            "BrName": "发文局领导",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 624,
+            "BrName": "发文科室编号人员",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 623,
+            "BrName": "发文科室经办人员",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 325,
+            "BrName": "发文拟稿人",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 354,
+            "BrName": "发文正局长",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 599,
+            "BrName": "法规处材料录入人员",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 404,
+            "BrName": "法规处经办人",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 409,
+            "BrName": "法规处领导",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 626,
+            "BrName": "放线结果填写员",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 640,
+            "BrName": "非农村村民建设窗口登记人员",
+            "BrOrder": 20
+        },
+        {
+            "BrId": 1577,
+            "BrName": "非涉密保管单位经办人",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 1576,
+            "BrName": "非涉密地理信息处经办人",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 39,
+            "BrName": "分管领导",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 1372,
+            "BrName": "风貌处长",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 1355,
+            "BrName": "风貌处处长",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 1356,
+            "BrName": "风貌处经办人",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 1612,
+            "BrName": "复垦耕保处接件人",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 1602,
+            "BrName": "复垦区局经办人",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 1604,
+            "BrName": "复垦区局签发人",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 1603,
+            "BrName": "复垦区局审核人",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 1609,
+            "BrName": "复垦市局签发人",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 1605,
+            "BrName": "复垦市中心接件人",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 1606,
+            "BrName": "复垦市中心经办人",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 1608,
+            "BrName": "复垦市中心签发人",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 1607,
+            "BrName": "复垦市中心审核人",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 1571,
+            "BrName": "高新区办公室发文编号人",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 1572,
+            "BrName": "高新区办公室发文排版人",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 1570,
+            "BrName": "高新区办公室主任",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 1526,
+            "BrName": "高新区初审人",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 1523,
+            "BrName": "高新区窗口",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 1627,
+            "BrName": "高新区分管领导",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 1530,
+            "BrName": "高新区监察初审人",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 1528,
+            "BrName": "高新区监察领导",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 1531,
+            "BrName": "高新区监察审核人",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 1527,
+            "BrName": "高新区经办人",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 1524,
+            "BrName": "高新区科室会签人",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 1569,
+            "BrName": "高新区科室内勤",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 1626,
+            "BrName": "高新区利用科人员",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 1525,
+            "BrName": "高新区签发人",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 1625,
+            "BrName": "高新区用途管制科",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 1529,
+            "BrName": "高新区执法监察人员",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 1628,
+            "BrName": "高新区主要领导",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 1294,
+            "BrName": "各部门",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 58,
+            "BrName": "各单位",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 1300,
+            "BrName": "各个处室内勤",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 629,
+            "BrName": "跟踪人",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 1610,
+            "BrName": "耕保处经办人",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 1611,
+            "BrName": "耕保处领导",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 338,
+            "BrName": "公示牌创建任务人",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 343,
+            "BrName": "公示牌归档人",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 335,
+            "BrName": "公示资料制作人",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 1640,
+            "BrName": "共享平台管理员",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 291,
+            "BrName": "管理动态中建设项目竣工核实人员",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 285,
+            "BrName": "规划编制台账经办人",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 414,
+            "BrName": "规划编制资质窗口",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 415,
+            "BrName": "规划编制资质准备材料人员",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 1287,
+            "BrName": "规划管理项目技术处理人员",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 520,
+            "BrName": "规划全覆盖信息中心入库人员",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 1487,
+            "BrName": "规划事务中心部长",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 1504,
+            "BrName": "规划事务中心部长或领导",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 1501,
+            "BrName": "规划事务中心传阅人",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 1495,
+            "BrName": "规划事务中心党支部书记",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 1497,
+            "BrName": "规划事务中心党支部委员",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 1489,
+            "BrName": "规划事务中心副职领导",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 1490,
+            "BrName": "规划事务中心工会领导",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 1499,
+            "BrName": "规划事务中心工会委员",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 1564,
+            "BrName": "规划事务中心公章管理人",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 1505,
+            "BrName": "规划事务中心购买物品更换电脑配件审核人",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 1502,
+            "BrName": "规划事务中心归档人员",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 1496,
+            "BrName": "规划事务中心经办部门领导",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 1486,
+            "BrName": "规划事务中心经办人",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 1491,
+            "BrName": "规划事务中心领导",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 1537,
+            "BrName": "规划事务中心派驻区局人员",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 1636,
+            "BrName": "规划事务中心人员_规划项目",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 1498,
+            "BrName": "规划事务中心团支委",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 1506,
+            "BrName": "规划事务中心物品购买询价人员",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 1508,
+            "BrName": "规划事务中心物品购买询价人员（作废）",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 1507,
+            "BrName": "规划事务中心物品审核人",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 1536,
+            "BrName": "规划事务中心一般性技术内容修改经办人",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 1492,
+            "BrName": "规划事务中心综合部初审人",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 1488,
+            "BrName": "规划事务中心综合部发文审稿人",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 1494,
+            "BrName": "规划事务中心综合部领导",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 1503,
+            "BrName": "规划事务中心综合部请假初审人",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 1493,
+            "BrName": "规划事务中心综合部收文人员",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 1563,
+            "BrName": "规划事务中心综合行政工作组领导",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 1586,
+            "BrName": "规划统筹城规处任务发起人",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 1587,
+            "BrName": "规划统筹技术单位接收人",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 1588,
+            "BrName": "规划统筹技术单位经办人",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 1304,
+            "BrName": "规划统筹项目策划组",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 1342,
+            "BrName": "规划统筹项目发起人",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 1307,
+            "BrName": "规划统筹项目相关部门会签人",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 1308,
+            "BrName": "规划统筹项目相关部门经办人",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 1305,
+            "BrName": "规划统筹项目主办处室经办",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 1306,
+            "BrName": "规划统筹项目主办处室领导",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 315,
+            "BrName": "规划信息入库初审人",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 284,
+            "BrName": "规划许可信息入库表签发人员",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 543,
+            "BrName": "规划研究数据库查询",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 528,
+            "BrName": "规划研究数据库管理人员",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 696,
+            "BrName": "规划主管部门",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 316,
+            "BrName": "规委会秘书处经办人_建管",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 303,
+            "BrName": "规委会主任或副主任",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 1341,
+            "BrName": "国土信息中心应用开发科",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 1279,
+            "BrName": "后勤保障组派车人员",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 474,
+            "BrName": "后勤中心人员",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 1561,
+            "BrName": "扈局",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 1566,
+            "BrName": "划拨申请局领导签发",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 1462,
+            "BrName": "划拨制文利用处内勤",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 1651,
+            "BrName": "黄局秘书陈志平",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 632,
+            "BrName": "会签人",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 677,
+            "BrName": "会议管理员",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 1380,
+            "BrName": "会议议题办公室经办人",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 1431,
+            "BrName": "会议议题办公室审核人",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 1421,
+            "BrName": "会议议题会签人",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 1665,
+            "BrName": "会议议题审议办公室查阅",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 678,
+            "BrName": "会议主持人",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 553,
+            "BrName": "绘制红线区局分件办理人员",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 430,
+            "BrName": "基础测绘成果窗口",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 432,
+            "BrName": "基础测绘成果复核人",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 431,
+            "BrName": "基础测绘成果经办人",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 433,
+            "BrName": "基础测绘成果签发",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 502,
+            "BrName": "计财处经办人",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 512,
+            "BrName": "监测处经办人",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 514,
+            "BrName": "监测处签发人",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 513,
+            "BrName": "监测处审核人",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 647,
+            "BrName": "监察初审人",
+            "BrOrder": 120
+        },
+        {
+            "BrId": 622,
+            "BrName": "监察打证人员",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 646,
+            "BrName": "监察分管领导",
+            "BrOrder": 110
+        },
+        {
+            "BrId": 648,
+            "BrName": "监察经办",
+            "BrOrder": 130
+        },
+        {
+            "BrId": 630,
+            "BrName": "监察科长",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 160,
+            "BrName": "监察室",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 469,
+            "BrName": "监察室领导",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 357,
+            "BrName": "监察项目签发人员",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 707,
+            "BrName": "建管处副处长_分工",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 706,
+            "BrName": "建管处副处长_分工北和沙",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 525,
+            "BrName": "建管处重大项目查询人员",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 506,
+            "BrName": "建管处重大项目管理员",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 507,
+            "BrName": "建管处重大项目填报人",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 398,
+            "BrName": "建议提案承办单位或处室安排",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 397,
+            "BrName": "建议提案登记人",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 403,
+            "BrName": "建议提案回复审核人",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 1371,
+            "BrName": "建筑处长",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 1367,
+            "BrName": "建筑处副处长_分工",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 1366,
+            "BrName": "建筑处副处长_分工北和沙",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 1370,
+            "BrName": "交通处长",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 426,
+            "BrName": "交通院建库人员",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 522,
+            "BrName": "交通院提供背景交通资料人员_区局经办人自创",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 401,
+            "BrName": "交通院总工",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 400,
+            "BrName": "交通院总工室分发任务",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 1302,
+            "BrName": "交通组经办人",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 1303,
+            "BrName": "交通组组长",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 34,
+            "BrName": "经办部门领导",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 33,
+            "BrName": "经办人",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 1623,
+            "BrName": "九龙坡沙坪坝江北划拨审查接收人",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 693,
+            "BrName": "局办信息报送管理员",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 499,
+            "BrName": "局长",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 1667,
+            "BrName": "局党组成员",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 1656,
+            "BrName": "局分管领导",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 60,
+            "BrName": "局领导",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 1580,
+            "BrName": "局内涉密测绘地理信息业务经办",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 1455,
+            "BrName": "局直属机关党委经办人",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 1456,
+            "BrName": "局直属机关党委领导",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 1664,
+            "BrName": "局主要领导",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 1323,
+            "BrName": "勘测院查看市政/交通工程规划许可",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 1351,
+            "BrName": "勘测院查看市政工程规划许可",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 1348,
+            "BrName": "勘测院查看市政工程规划许可",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 475,
+            "BrName": "勘测院查看市政工程规划许可",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 96,
+            "BrName": "勘测院放线办人员",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 395,
+            "BrName": "考察或培训登记人",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 80,
+            "BrName": "科技委办公室负责人",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 75,
+            "BrName": "科技委办公室经办人",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 81,
+            "BrName": "科技委领导",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 1641,
+            "BrName": "科技信息化处经办",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 1644,
+            "BrName": "科技信息化处领导",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 68,
+            "BrName": "科室负责人",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 319,
+            "BrName": "科研课题经办人",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 408,
+            "BrName": "空间数据修改复核人",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 1535,
+            "BrName": "控规维护部门领导",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 304,
+            "BrName": "控规修改编研所经办人",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 370,
+            "BrName": "控规修改窗口人员",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 334,
+            "BrName": "控规修改经办人",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 1546,
+            "BrName": "控规修改内部资料归档人员",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 308,
+            "BrName": "控规一般修改区局或信息中心经办人",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 532,
+            "BrName": "控规整合统筹组分件",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 1659,
+            "BrName": "矿业权处处长",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 1658,
+            "BrName": "矿业权处副处长",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 1657,
+            "BrName": "矿业权处经办人",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 1660,
+            "BrName": "矿业权窗口",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 501,
+            "BrName": "离退休人员",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 1624,
+            "BrName": "利用处副处长",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 1648,
+            "BrName": "利用处经办人",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 1344,
+            "BrName": "利用处领导",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 1439,
+            "BrName": "利用处内勤",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 1345,
+            "BrName": "利用处主要领导",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 1474,
+            "BrName": "利用事务中心窗口",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 1377,
+            "BrName": "利用事务中心经办人",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 1441,
+            "BrName": "利用事务中心领导",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 1663,
+            "BrName": "利用事务中心土地出让会审初审人",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 369,
+            "BrName": "廉政办人员",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 468,
+            "BrName": "廉政消息发布人",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 288,
+            "BrName": "两江办经办人",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 455,
+            "BrName": "两江新区办公室主任",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 449,
+            "BrName": "两江新区机要秘书",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 454,
+            "BrName": "两江新区科室负责人",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 450,
+            "BrName": "两江新区领导",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 453,
+            "BrName": "两江新区事务办理人",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 452,
+            "BrName": "两江新区事务电子化人员",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 451,
+            "BrName": "两江新区事务归档",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 1621,
+            "BrName": "两江渝中巴南划拨审查接收人",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 530,
+            "BrName": "临时人员",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 297,
+            "BrName": "录入人员",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 345,
+            "BrName": "秘书处负责人",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 340,
+            "BrName": "秘书处经办人",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 570,
+            "BrName": "名城处处长",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 569,
+            "BrName": "名城处处长（废）",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 571,
+            "BrName": "名城处经办人",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 585,
+            "BrName": "内畅外联台帐管理员",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 593,
+            "BrName": "内畅外联台帐管理员",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 594,
+            "BrName": "内畅外联台帐填报人",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 584,
+            "BrName": "内畅外联台帐填报人",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 1427,
+            "BrName": "南岸政府信息公开办公室编号人员",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 1554,
+            "BrName": "拟稿人",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 442,
+            "BrName": "年度资金计划汇总审签经办人",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 639,
+            "BrName": "签发人",
+            "BrOrder": 20
+        },
+        {
+            "BrId": 643,
+            "BrName": "签发受理不受理",
+            "BrOrder": 60
+        },
+        {
+            "BrId": 448,
+            "BrName": "签发受理不受理人员",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 1551,
+            "BrName": "强局",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 396,
+            "BrName": "请假办公室初审人",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 65,
+            "BrName": "区局办公室",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 705,
+            "BrName": "区局办理体育公园项目人员",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 422,
+            "BrName": "区局初审人员",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 274,
+            "BrName": "区局窗口登记规划条件函或土地储备人员",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 265,
+            "BrName": "区局窗口登记人员",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 273,
+            "BrName": "区局窗口登记条件函或土地储备人员作废",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 383,
+            "BrName": "区局发文办公室编号员",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 381,
+            "BrName": "区局发文办公室主任",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 380,
+            "BrName": "区局发文科室审核人",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 379,
+            "BrName": "区局发文拟稿人",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 1433,
+            "BrName": "区局发文签发领导",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 382,
+            "BrName": "区局发文区局领导",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 1463,
+            "BrName": "区局分管负责人",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 71,
+            "BrName": "区局归档人员",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 269,
+            "BrName": "区局会签人员",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 309,
+            "BrName": "区局或编研所经办人",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 312,
+            "BrName": "区局或处室经办人",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 66,
+            "BrName": "区局或单位领导",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 534,
+            "BrName": "区局或规划信息中心控规修改经办人",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 270,
+            "BrName": "区局或市局初审人员",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 283,
+            "BrName": "区局或市局经办人",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 393,
+            "BrName": "区局监察初审人员",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 320,
+            "BrName": "区局监察分管领导",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 420,
+            "BrName": "区局监察跟踪人",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 272,
+            "BrName": "区局监察领导",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 394,
+            "BrName": "区局监察审核人",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 266,
+            "BrName": "区局建管/建设科经办人员",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 1330,
+            "BrName": "区局建管科经办人员",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 364,
+            "BrName": "区局经办人",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 324,
+            "BrName": "区局科长",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 1460,
+            "BrName": "区局利用科负责人",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 1459,
+            "BrName": "区局利用科经办人",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 323,
+            "BrName": "区局领导",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 271,
+            "BrName": "区局签发证书人员",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 88,
+            "BrName": "区局审核人员",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 657,
+            "BrName": "区局审核镇规划许可人员",
+            "BrOrder": 220
+        },
+        {
+            "BrId": 67,
+            "BrName": "区局收文办理人",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 69,
+            "BrName": "区局收文电子化人员",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 1562,
+            "BrName": "区局收文阅件人",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 1470,
+            "BrName": "区局信息公开接件人",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 1617,
+            "BrName": "区局用途管制科经办人员",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 1464,
+            "BrName": "区局主要负责人",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 638,
+            "BrName": "区县报送初审",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 636,
+            "BrName": "区县报送经办人",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 637,
+            "BrName": "区县报送领导",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 547,
+            "BrName": "区县部门初审人",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 546,
+            "BrName": "区县部门经办人",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 548,
+            "BrName": "区县部门签发人",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 549,
+            "BrName": "区县操作员",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 388,
+            "BrName": "区县处领导",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 1318,
+            "BrName": "区县市政/交通项目窗口",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 1317,
+            "BrName": "区县市政/交通项目经办人",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 1320,
+            "BrName": "区县市政/交通项目签发人",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 387,
+            "BrName": "区县市政项目窗口",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 385,
+            "BrName": "区县市政项目经办人",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 386,
+            "BrName": "区县市政项目签发人",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 701,
+            "BrName": "全覆盖情况规划院审核人员",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 515,
+            "BrName": "全覆盖系统使用人员",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 531,
+            "BrName": "全覆盖整合方案项目组",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 38,
+            "BrName": "全局传阅确认人员",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 1266,
+            "BrName": "全局传阅人",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 1332,
+            "BrName": "权益处经办人",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 1331,
+            "BrName": "权益处领导",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 1511,
+            "BrName": "权益处内勤",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 462,
+            "BrName": "人事处归档人员",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 457,
+            "BrName": "人事处领导",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 460,
+            "BrName": "人事处正职领导",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 1445,
+            "BrName": "人事管理_纪检组会签",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 470,
+            "BrName": "人事基本信息管理人员",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 464,
+            "BrName": "人事系统_部门主要领导",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 459,
+            "BrName": "人事系统_部门主要领导（作废）",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 487,
+            "BrName": "人事系统_曹春华考核人员",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 497,
+            "BrName": "人事系统_查看考核统计人员",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 1451,
+            "BrName": "人事系统_分管领导",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 504,
+            "BrName": "人事系统_高级统计人员",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 535,
+            "BrName": "人事系统_工勤人员",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 539,
+            "BrName": "人事系统_公务员",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 486,
+            "BrName": "人事系统_何桂文考核人员",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 463,
+            "BrName": "人事系统_局主要领导",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 458,
+            "BrName": "人事系统_局主要领导（作废）",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 492,
+            "BrName": "人事系统_考核人员",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 483,
+            "BrName": "人事系统_邱建林考核人员",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 556,
+            "BrName": "人事系统_区局部门分管领导",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 466,
+            "BrName": "人事系统_人事处归档人员",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 538,
+            "BrName": "人事系统_人事处年度考核人员",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 467,
+            "BrName": "人事系统_申请人",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 536,
+            "BrName": "人事系统_事业单位",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 537,
+            "BrName": "人事系统_事业单位人员",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 488,
+            "BrName": "人事系统_田茂明考核人员",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 491,
+            "BrName": "人事系统_统计人员",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 1468,
+            "BrName": "人事系统_外事领导",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 461,
+            "BrName": "人事系统_外事领导（作废）",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 485,
+            "BrName": "人事系统_王岳考核人员",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 1450,
+            "BrName": "人事系统_协管领导复审",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 465,
+            "BrName": "人事系统_协管领导审核",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 478,
+            "BrName": "人事系统_信息中心修改",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 482,
+            "BrName": "人事系统_因私出国归档人员",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 1426,
+            "BrName": "人事系统_因私出国普通人员",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 1476,
+            "BrName": "人事系统_因私请假归档人",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 490,
+            "BrName": "人事系统_余颖考核人员",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 484,
+            "BrName": "人事系统_张睿考核人员",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 489,
+            "BrName": "人事系统_张远考核人员",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 1668,
+            "BrName": "睿局",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 605,
+            "BrName": "三维仿真勘测院创建人员",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 606,
+            "BrName": "三维仿真勘测院审核人员",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 627,
+            "BrName": "审核人",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 314,
+            "BrName": "审计署专用角色",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 516,
+            "BrName": "实施监测权限分配人员",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 517,
+            "BrName": "实时监测模型配置人员",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 518,
+            "BrName": "实时监测系统使用人员",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 1347,
+            "BrName": "食堂订餐系统管理员1",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 1262,
+            "BrName": "市长公开信箱_办公室督办",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 1263,
+            "BrName": "市长公开信箱_办公室秘书室",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 1261,
+            "BrName": "市长公开信箱_办公室主任",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 1273,
+            "BrName": "市长公开信箱_信访办分发任务",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 1271,
+            "BrName": "市长公开信箱_信访工作组办理",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 1272,
+            "BrName": "市长公开信箱_信访工作组领导审核",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 1269,
+            "BrName": "市长公开信箱_信息发布人员",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 1264,
+            "BrName": "市长公开信箱_信息录入人员",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 1596,
+            "BrName": "市调查监测院复核人",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 1597,
+            "BrName": "市调查监测院终审人",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 1575,
+            "BrName": "市规划院汇总人员",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 1440,
+            "BrName": "市级大厅窗口_土地",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 268,
+            "BrName": "市局、区局签发人员",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 675,
+            "BrName": "市局办公室备案人",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 436,
+            "BrName": "市局办公室科员",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 1358,
+            "BrName": "市局城规处处长",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 1360,
+            "BrName": "市局城规处副处长",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 1361,
+            "BrName": "市局城规处经办人员",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 87,
+            "BrName": "市局处室审核人",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 437,
+            "BrName": "市局窗口",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 1311,
+            "BrName": "市局村镇组经办人员",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 1310,
+            "BrName": "市局村镇组组长",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 683,
+            "BrName": "市局发文经办人",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 347,
+            "BrName": "市局分管领导审查科研项目人",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 1363,
+            "BrName": "市局风貌处领导",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 264,
+            "BrName": "市局会审表签发人员",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 89,
+            "BrName": "市局会审表审核人员",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 90,
+            "BrName": "市局绘制红线人员",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 349,
+            "BrName": "市局或区局监察经办人",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 361,
+            "BrName": "市局或区局领导",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 313,
+            "BrName": "市局或区局签发证书人员",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 317,
+            "BrName": "市局计财处审核人",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 421,
+            "BrName": "市局监察室领导",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 359,
+            "BrName": "市局监察项目会签人员",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 362,
+            "BrName": "市局监察项目签发人员",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 100,
+            "BrName": "市局建管处经办人员",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 609,
+            "BrName": "市局建管处审核人员",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 1364,
+            "BrName": "市局建筑处经办人员",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 1365,
+            "BrName": "市局建筑处审核人员",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 1374,
+            "BrName": "市局利用处经办人",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 1338,
+            "BrName": "市局利用处领导",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 102,
+            "BrName": "市局领导签发红线表人员",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 95,
+            "BrName": "市局领导签发证书人员",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 545,
+            "BrName": "市局区县处领导",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 1568,
+            "BrName": "市局审核报文人员",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 97,
+            "BrName": "市局审核竣工核实会审表人员",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 1326,
+            "BrName": "市局市政/交通处领导",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 94,
+            "BrName": "市局相关处室会签人",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 85,
+            "BrName": "市局相关处室经办人",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 305,
+            "BrName": "市局详规处处长",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 356,
+            "BrName": "市局详规处副处长",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 99,
+            "BrName": "市局详规处经办人员",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 1618,
+            "BrName": "市局用途管制处经办人员",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 344,
+            "BrName": "市局执法总队初审人",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 76,
+            "BrName": "市局总工办副主任",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 79,
+            "BrName": "市局总工办经办",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 348,
+            "BrName": "市局总工办科研课题办理人员",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 318,
+            "BrName": "市局总工办领导审查人",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 77,
+            "BrName": "市局总工办主任",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 1293,
+            "BrName": "市生态环境局内部人员",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 1616,
+            "BrName": "市土储中心预审人员",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 1329,
+            "BrName": "市政/交通处处长",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 1321,
+            "BrName": "市政/交通处经办人",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 1319,
+            "BrName": "市政/交通处领导",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 1325,
+            "BrName": "市政/交通技术审查事业单位人员_区局经办人自创",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 1324,
+            "BrName": "市政/交通项目技术审查事业单位人员",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 1327,
+            "BrName": "市政/交通项目经办人",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 1328,
+            "BrName": "市政/交通项目市局签发人",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 1322,
+            "BrName": "市政/交通项目数据收集接收人",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 1354,
+            "BrName": "市政处/交通经办人",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 1369,
+            "BrName": "市政处长",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 93,
+            "BrName": "市政处处长",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 101,
+            "BrName": "市政处经办人",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 1410,
+            "BrName": "市政府公开信箱_局领导",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 704,
+            "BrName": "市政府公开信箱分发人员",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 521,
+            "BrName": "市政技术审查事业单位人员_区局经办人自创",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 293,
+            "BrName": "市政项目技术审查事业单位人员",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 290,
+            "BrName": "市政项目经办人",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 336,
+            "BrName": "市政项目市局签发人",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 360,
+            "BrName": "市政项目数据收集接收人",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 53,
+            "BrName": "事务办理人",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 59,
+            "BrName": "事务启动人",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 52,
+            "BrName": "事务审核人",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 399,
+            "BrName": "事业单位部门领导",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 63,
+            "BrName": "收文处理单打印人员",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 57,
+            "BrName": "收文电子化人员",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 40,
+            "BrName": "收文管理督办人员",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 51,
+            "BrName": "收文归档人",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 62,
+            "BrName": "收文全局查看人员",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 608,
+            "BrName": "收文任务完成审批人",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 551,
+            "BrName": "数据服务分发人",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 552,
+            "BrName": "数据服务质管部审核人",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 611,
+            "BrName": "数据使用人",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 407,
+            "BrName": "数据修改表单复核人",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 406,
+            "BrName": "数据修改人",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 662,
+            "BrName": "数据应用部加班审核人员",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 663,
+            "BrName": "数据应用部小组长",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 544,
+            "BrName": "双随机一公开抽件人员",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 476,
+            "BrName": "所有局领导",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 1533,
+            "BrName": "田巡",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 628,
+            "BrName": "通用函复打印人员",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 1333,
+            "BrName": "土地出让业务发起人",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 1647,
+            "BrName": "土交所负责人",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 1646,
+            "BrName": "土交所经办人",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 402,
+            "BrName": "外网公示信息发布人",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 425,
+            "BrName": "外网公示资料收集",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 595,
+            "BrName": "外网规划公布信息初审人",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 363,
+            "BrName": "外网信息发布经办人",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 1461,
+            "BrName": "王局",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 519,
+            "BrName": "网审平台登记人",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 558,
+            "BrName": "网审信访审查",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 557,
+            "BrName": "网审信访主任",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 1661,
+            "BrName": "韦局",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 1448,
+            "BrName": "违建别墅抽查人员",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 1449,
+            "BrName": "违建别墅分件人员",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 1446,
+            "BrName": "违建别墅录入人员",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 1477,
+            "BrName": "违建别墅数据质量核查人员",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 1532,
+            "BrName": "违建别墅推进办核查人员",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 295,
+            "BrName": "文档测试用户",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 1407,
+            "BrName": "文局",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 500,
+            "BrName": "无报批流程数据修改人员",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 596,
+            "BrName": "系统测试",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 586,
+            "BrName": "系统测试1",
+            "BrOrder": 2
+        },
+        {
+            "BrId": 13,
+            "BrName": "系统管理员",
+            "BrOrder": 20
+        },
+        {
+            "BrId": 298,
+            "BrName": "下载申请人",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 296,
+            "BrName": "下载审核人",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 311,
+            "BrName": "详规处控规公示汇总人员",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 550,
+            "BrName": "详规处正职领导",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 479,
+            "BrName": "详规处重点任务分派人",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 84,
+            "BrName": "项目负责人",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 83,
+            "BrName": "项目经办人",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 703,
+            "BrName": "项目统筹策划对接人",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 1419,
+            "BrName": "项目统筹信息中心经办人",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 1350,
+            "BrName": "小阿拉啦",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 26,
+            "BrName": "效能监察查询用户",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 27,
+            "BrName": "效能监察全局查询用户",
+            "BrOrder": 3
+        },
+        {
+            "BrId": 1637,
+            "BrName": "新平台查看人员",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 434,
+            "BrName": "新闻联络员",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 375,
+            "BrName": "信访办初审人",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 378,
+            "BrName": "信访办经办人",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 376,
+            "BrName": "信访办主任",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 377,
+            "BrName": "信访承办单位安排人员",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 374,
+            "BrName": "信访窗口人员",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 1638,
+            "BrName": "信息报送管理人员",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 1556,
+            "BrName": "信息发布",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 1565,
+            "BrName": "信息公开_局领导",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 480,
+            "BrName": "信息公开办公室排版",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 1277,
+            "BrName": "信息公开编号人",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 1309,
+            "BrName": "信息中心_规划交通部",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 708,
+            "BrName": "信息中心_综合部财务审核",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 495,
+            "BrName": "信息中心_综合部初审人",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 709,
+            "BrName": "信息中心_综合部归档人员",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 494,
+            "BrName": "信息中心_综合部领导",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 493,
+            "BrName": "信息中心_综合部领导（作废）",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 471,
+            "BrName": "信息中心部长",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 287,
+            "BrName": "信息中心部长或领导",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 607,
+            "BrName": "信息中心村规划核实人员",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 565,
+            "BrName": "信息中心村规划任务分发人",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 564,
+            "BrName": "信息中心村规划入库人员",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 1519,
+            "BrName": "信息中心党建信息初审人",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 1516,
+            "BrName": "信息中心党建信息发布人",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 1515,
+            "BrName": "信息中心党建信息拟稿人",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 1517,
+            "BrName": "信息中心党支部副书记",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 1518,
+            "BrName": "信息中心党支部书记",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 1582,
+            "BrName": "信息中心发文编号",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 583,
+            "BrName": "信息中心副主任",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 1539,
+            "BrName": "信息中心盖章_综合部盖章人员",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 1581,
+            "BrName": "信息中心盖章人",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 1578,
+            "BrName": "信息中心购买物品询价人员（属于申报财政预算）",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 1541,
+            "BrName": "信息中心购买物品询价人员（属于市局项目经费支出）",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 70,
+            "BrName": "信息中心归档人员",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 1591,
+            "BrName": "信息中心规划计划科",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 104,
+            "BrName": "信息中心规划数据应用部人员",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 105,
+            "BrName": "信息中心规划数据应用部任务分发人",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 106,
+            "BrName": "信息中心红线组人员",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 711,
+            "BrName": "信息中心技保部抽查人员",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 339,
+            "BrName": "信息中心技保部大厅人员",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 103,
+            "BrName": "信息中心技保部审核人",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 710,
+            "BrName": "信息中心技保部组长",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 278,
+            "BrName": "信息中心经办人",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 575,
+            "BrName": "信息中心领导",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 231,
+            "BrName": "信息中心人员",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 92,
+            "BrName": "信息中心入库人员",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 289,
+            "BrName": "信息中心三维人员",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 1552,
+            "BrName": "信息中心收文办公室拟办人员",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 665,
+            "BrName": "信息中心数据部部长",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 1312,
+            "BrName": "信息中心数据部分发人",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 563,
+            "BrName": "信息中心数据部任务分发人",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 664,
+            "BrName": "信息中心数据部审核人员",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 674,
+            "BrName": "信息中心数据服务经办人",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 612,
+            "BrName": "信息中心数据管理人员",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 351,
+            "BrName": "信息中心数据应用部人员",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 418,
+            "BrName": "信息中心数据组人员",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 352,
+            "BrName": "信息中心数据组任务分发人",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 1549,
+            "BrName": "信息中心外网发布人",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 310,
+            "BrName": "信息中心外网信息发布人员",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 217,
+            "BrName": "信息中心项目负责人",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 286,
+            "BrName": "信息中心行政事务性工作督办发起人",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 1512,
+            "BrName": "信息中心硬件运维人员",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 306,
+            "BrName": "信息中心预入库任务接收人",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 1579,
+            "BrName": "信息中心招投标项目规范性审查",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 275,
+            "BrName": "信息中心整合红线分发人",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 1639,
+            "BrName": "信息中心指标核算人员",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 98,
+            "BrName": "信息中心质管部人员",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 1213,
+            "BrName": "信息中心综合部审核",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 1583,
+            "BrName": "信用信息测绘处经办人",
+            "BrOrder": 100
+        },
+        {
+            "BrId": 542,
+            "BrName": "行政办公任务分解管理员",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 405,
+            "BrName": "行政诉讼移交人",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 660,
+            "BrName": "宣传办理媒体来访和新闻线索",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 427,
+            "BrName": "宣传处经办人",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 428,
+            "BrName": "宣传处领导",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 692,
+            "BrName": "宣传处信息报送管理员",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 435,
+            "BrName": "宣传业务归档人",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 1666,
+            "BrName": "巡视员",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 562,
+            "BrName": "研究中心经办人",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 561,
+            "BrName": "研究中心任务分发人",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 302,
+            "BrName": "研究中心项目负责人",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 341,
+            "BrName": "研究中心信息发布",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 322,
+            "BrName": "研究中心用户_测试",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 299,
+            "BrName": "研究中心主任",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 429,
+            "BrName": "研究中心总规项目初审人",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 368,
+            "BrName": "阳光督察任务分配人",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 371,
+            "BrName": "阳光督察试运行人员",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 523,
+            "BrName": "遥感督察查看人员",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 590,
+            "BrName": "业务角色测试",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 1217,
+            "BrName": "一体化云_办公室主任",
+            "BrOrder": 9900050
+        },
+        {
+            "BrId": 1223,
+            "BrName": "一体化云_部门经办",
+            "BrOrder": 9900056
+        },
+        {
+            "BrId": 1216,
+            "BrName": "一体化云_传阅人",
+            "BrOrder": 9900036
+        },
+        {
+            "BrId": 1252,
+            "BrName": "一体化云_窗口打证人员",
+            "BrOrder": 9900659
+        },
+        {
+            "BrId": 1238,
+            "BrName": "一体化云_窗口登记人员",
+            "BrOrder": 9900641
+        },
+        {
+            "BrId": 1242,
+            "BrName": "一体化云_打字室打字员",
+            "BrOrder": 9900645
+        },
+        {
+            "BrId": 1228,
+            "BrName": "一体化云_发文编号人",
+            "BrOrder": 9900330
+        },
+        {
+            "BrId": 1251,
+            "BrName": "一体化云_发文拟稿人",
+            "BrOrder": 9900658
+        },
+        {
+            "BrId": 1230,
+            "BrName": "一体化云_放线结果填写员",
+            "BrOrder": 9900626
+        },
+        {
+            "BrId": 1232,
+            "BrName": "一体化云_跟踪人",
+            "BrOrder": 9900629
+        },
+        {
+            "BrId": 1257,
+            "BrName": "一体化云_规划信息中心经办人",
+            "BrOrder": 9900664
+        },
+        {
+            "BrId": 1234,
+            "BrName": "一体化云_会签人",
+            "BrOrder": 9900632
+        },
+        {
+            "BrId": 1244,
+            "BrName": "一体化云_监察初审人",
+            "BrOrder": 9900647
+        },
+        {
+            "BrId": 1245,
+            "BrName": "一体化云_监察经办",
+            "BrOrder": 9900648
+        },
+        {
+            "BrId": 1243,
+            "BrName": "一体化云_监察审核人",
+            "BrOrder": 9900646
+        },
+        {
+            "BrId": 1226,
+            "BrName": "一体化云_局领导",
+            "BrOrder": 9900060
+        },
+        {
+            "BrId": 1227,
+            "BrName": "一体化云_勘测院放线办人员",
+            "BrOrder": 9900096
+        },
+        {
+            "BrId": 1222,
+            "BrName": "一体化云_科室领导",
+            "BrOrder": 9900055
+        },
+        {
+            "BrId": 1253,
+            "BrName": "一体化云_农房审批接件人",
+            "BrOrder": 9900660
+        },
+        {
+            "BrId": 1237,
+            "BrName": "一体化云_签发人",
+            "BrOrder": 9900639
+        },
+        {
+            "BrId": 1240,
+            "BrName": "一体化云_签发受理不受理",
+            "BrOrder": 9900643
+        },
+        {
+            "BrId": 1283,
+            "BrName": "一体化云_区县报送资料初审人",
+            "BrOrder": 9900642
+        },
+        {
+            "BrId": 1280,
+            "BrName": "一体化云_区县报送资料对接人",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 1282,
+            "BrName": "一体化云_区县报送资料审核人",
+            "BrOrder": 9900627
+        },
+        {
+            "BrId": 1281,
+            "BrName": "一体化云_区县报送资料填报人",
+            "BrOrder": 9900033
+        },
+        {
+            "BrId": 1239,
+            "BrName": "一体化云_区县初审人",
+            "BrOrder": 9900642
+        },
+        {
+            "BrId": 1215,
+            "BrName": "一体化云_区县经办人",
+            "BrOrder": 9900033
+        },
+        {
+            "BrId": 1231,
+            "BrName": "一体化云_区县审核人",
+            "BrOrder": 9900627
+        },
+        {
+            "BrId": 1254,
+            "BrName": "一体化云_市局处室经办人",
+            "BrOrder": 9900661
+        },
+        {
+            "BrId": 1255,
+            "BrName": "一体化云_市局处室领导",
+            "BrOrder": 9900662
+        },
+        {
+            "BrId": 1256,
+            "BrName": "一体化云_市局分管局领导",
+            "BrOrder": 9900663
+        },
+        {
+            "BrId": 1220,
+            "BrName": "一体化云_事务办理人",
+            "BrOrder": 9900053
+        },
+        {
+            "BrId": 1225,
+            "BrName": "一体化云_事务启动人",
+            "BrOrder": 9900059
+        },
+        {
+            "BrId": 1219,
+            "BrName": "一体化云_事务审核人",
+            "BrOrder": 9900052
+        },
+        {
+            "BrId": 1221,
+            "BrName": "一体化云_收文办公室拟办人",
+            "BrOrder": 9900054
+        },
+        {
+            "BrId": 1224,
+            "BrName": "一体化云_收文电子化人员",
+            "BrOrder": 9900057
+        },
+        {
+            "BrId": 1218,
+            "BrName": "一体化云_收文归档人",
+            "BrOrder": 9900051
+        },
+        {
+            "BrId": 1229,
+            "BrName": "一体化云_阳光督察任务分配人",
+            "BrOrder": 9900368
+        },
+        {
+            "BrId": 1247,
+            "BrName": "一体化云_镇（乡）、街道初审人",
+            "BrOrder": 9900652
+        },
+        {
+            "BrId": 1249,
+            "BrName": "一体化云_镇（乡）、街道接件人",
+            "BrOrder": 9900656
+        },
+        {
+            "BrId": 1248,
+            "BrName": "一体化云_镇（乡）、街道经办人",
+            "BrOrder": 9900654
+        },
+        {
+            "BrId": 1246,
+            "BrName": "一体化云_镇（乡）、街道签发人",
+            "BrOrder": 9900650
+        },
+        {
+            "BrId": 1236,
+            "BrName": "一体化云_镇（乡）、街道审核人",
+            "BrOrder": 9900635
+        },
+        {
+            "BrId": 1241,
+            "BrName": "一体化云_镇（乡）、街道受理不受理及复函签发人",
+            "BrOrder": 9900644
+        },
+        {
+            "BrId": 1235,
+            "BrName": "一体化云_征求所属辖区城乡规划主管部门意见经办人",
+            "BrOrder": 9900634
+        },
+        {
+            "BrId": 1233,
+            "BrName": "一体化云_制图员",
+            "BrOrder": 9900631
+        },
+        {
+            "BrId": 554,
+            "BrName": "移动办公",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 443,
+            "BrName": "移动城乡规划综合数据查询人员",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 1645,
+            "BrName": "用地事务中心经办人",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 373,
+            "BrName": "用地条件函查看人员",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 1619,
+            "BrName": "用途管制处处长",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 1650,
+            "BrName": "用途管制处负责人",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 1649,
+            "BrName": "用途管制处经办人",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 1622,
+            "BrName": "渝北和北碚划拨审查接收人",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 1643,
+            "BrName": "余局",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 31,
+            "BrName": "阅签人",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 652,
+            "BrName": "镇（乡）、街道初审人",
+            "BrOrder": 190
+        },
+        {
+            "BrId": 633,
+            "BrName": "镇（乡）、街道规建项目预报件人",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 656,
+            "BrName": "镇（乡）、街道接件人",
+            "BrOrder": 210
+        },
+        {
+            "BrId": 654,
+            "BrName": "镇（乡）、街道经办人",
+            "BrOrder": 200
+        },
+        {
+            "BrId": 650,
+            "BrName": "镇（乡）、街道签发人",
+            "BrOrder": 180
+        },
+        {
+            "BrId": 635,
+            "BrName": "镇（乡）、街道审核人",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 644,
+            "BrName": "镇（乡）、街道受理不受理及复函签发人",
+            "BrOrder": 60
+        },
+        {
+            "BrId": 651,
+            "BrName": "镇政府初审人员",
+            "BrOrder": 190
+        },
+        {
+            "BrId": 655,
+            "BrName": "镇政府接件人员",
+            "BrOrder": 210
+        },
+        {
+            "BrId": 653,
+            "BrName": "镇政府经办人员",
+            "BrOrder": 200
+        },
+        {
+            "BrId": 649,
+            "BrName": "镇政府签发人员",
+            "BrOrder": 180
+        },
+        {
+            "BrId": 634,
+            "BrName": "征求所属辖区城乡规划主管部门意见经办人",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 1469,
+            "BrName": "政府信息公开办公室编号人员",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 438,
+            "BrName": "政府信息公开或信访办公室领导",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 439,
+            "BrName": "政府信息公开接件人",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 441,
+            "BrName": "政府信息公开区局办公室初审人",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 440,
+            "BrName": "政府信息公开市局办公室初审人",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 602,
+            "BrName": "政务督查单位管理员",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 48,
+            "BrName": "政务督查登记人",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 417,
+            "BrName": "政务督查登记人员",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 572,
+            "BrName": "政务督查督办管理员",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 573,
+            "BrName": "政务督查督办填报人",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 559,
+            "BrName": "政务督察督办管理员",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 560,
+            "BrName": "政务督察督办填报人",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 1557,
+            "BrName": "支部初审",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 1555,
+            "BrName": "支部复审",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 1559,
+            "BrName": "支部审定",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 419,
+            "BrName": "执法大队会审人员",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 527,
+            "BrName": "执法监察签发人",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 267,
+            "BrName": "执法监察人",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 526,
+            "BrName": "执法监察审核人",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 358,
+            "BrName": "执法总队会审人员",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 337,
+            "BrName": "执法总队签发领导",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 473,
+            "BrName": "执法总队人员",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 1381,
+            "BrName": "直属机关党委审核人",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 631,
+            "BrName": "制图员",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 505,
+            "BrName": "中心ISO校核人",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 510,
+            "BrName": "中心ISO校核人_非软件开发",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 712,
+            "BrName": "中心差旅_部门领导",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 713,
+            "BrName": "中心差旅_综合部领导",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 619,
+            "BrName": "中心党小组人员",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 615,
+            "BrName": "中心党支部归档人员",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 577,
+            "BrName": "中心党支部书记",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 616,
+            "BrName": "中心党支部谈话书记",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 73,
+            "BrName": "中心党支部委员",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 1538,
+            "BrName": "中心档案管理人员",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 511,
+            "BrName": "中心档案组人员",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 28,
+            "BrName": "中心副职领导",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 566,
+            "BrName": "中心副主任",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 681,
+            "BrName": "中心工会领导",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 568,
+            "BrName": "中心工会委员",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 447,
+            "BrName": "中心购买物品更换电脑配件审核人",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 446,
+            "BrName": "中心购买物品审核人",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 1545,
+            "BrName": "中心合同归档人",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 503,
+            "BrName": "中心会议主持人",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 91,
+            "BrName": "中心技保部人员",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 32,
+            "BrName": "中心领导",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 350,
+            "BrName": "中心派驻区局人员",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 456,
+            "BrName": "中心请假申请人",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 1560,
+            "BrName": "中心请假业务归档人",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 529,
+            "BrName": "中心团支委",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 496,
+            "BrName": "中心文秘人员",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 445,
+            "BrName": "中心物品购买询价人员",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 307,
+            "BrName": "中心预入库经办人",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 714,
+            "BrName": "中心支出_部门领导",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 715,
+            "BrName": "中心支出_综合部领导",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 603,
+            "BrName": "中心支出类合同归档人",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 533,
+            "BrName": "中心支委团委",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 1214,
+            "BrName": "中心质管部审查",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 509,
+            "BrName": "中心质管部审查人",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 508,
+            "BrName": "中心质量管理部",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 29,
+            "BrName": "中心主任",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 444,
+            "BrName": "中心综合部请假初审人",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 30,
+            "BrName": "中心总工程师",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 1301,
+            "BrName": "重点工作任务表管理员",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 578,
+            "BrName": "重点目标任务分派人",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 541,
+            "BrName": "重点任务督办管理员",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 694,
+            "BrName": "重庆市各部门",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 1631,
+            "BrName": "主城区外区县局长",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 1630,
+            "BrName": "主城区外区县控规初审人员",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 1629,
+            "BrName": "主城区外区县控规经办人",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 472,
+            "BrName": "住房补贴信息发布",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 72,
+            "BrName": "转本单位收文发起人",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 614,
+            "BrName": "资源共享集成系统事业单位用户",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 613,
+            "BrName": "资源共享集成系统试用查看用户",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 610,
+            "BrName": "资源共享集成系统中心用户",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 659,
+            "BrName": "综合部差旅经办人",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 682,
+            "BrName": "综合部发文审核人",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 524,
+            "BrName": "综合部开票人",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 43,
+            "BrName": "综合部评价人",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 37,
+            "BrName": "综合部收文人员",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 1430,
+            "BrName": "综合处领导",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 424,
+            "BrName": "总规处领导",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 1573,
+            "BrName": "总规工作进入科室填报人员",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 1574,
+            "BrName": "总规工作推进区局分管领导",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 423,
+            "BrName": "总规业务经办人",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 1314,
+            "BrName": "总师",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 277,
+            "BrName": "总图建库市局审核",
+            "BrOrder": 0
+        },
+        {
+            "BrId": 276,
+            "BrName": "总图建库收件人员",
+            "BrOrder": 0
+        }
+    ],
+    "forms": [
+        {
+            "checked": false,
+            "BfId": 1,
+            "BfName": "建设项目报建登记表"
+        },
+        {
+            "checked": false,
+            "BfId": 3,
+            "BfName": "规划申请受理复函"
+        },
+        {
+            "checked": false,
+            "BfId": 4,
+            "BfName": "规划申请不予受理复函"
+        },
+        {
+            "checked": false,
+            "BfId": 5,
+            "BfName": "规划许可办理计时通知no"
+        },
+        {
+            "checked": false,
+            "BfId": 6,
+            "BfName": "竣工验收复函no"
+        },
+        {
+            "checked": false,
+            "BfId": 8,
+            "BfName": "报件材料回执单"
+        },
+        {
+            "checked": false,
+            "BfId": 23,
+            "BfName": "规划办理中断通知"
+        },
+        {
+            "checked": false,
+            "BfId": 24,
+            "BfName": "规划办理计时恢复通知"
+        },
+        {
+            "checked": false,
+            "BfId": 146,
+            "BfName": "建筑规划管理建设项目会审表_删除"
+        },
+        {
+            "checked": false,
+            "BfId": 147,
+            "BfName": "建筑规划管理建设项目会审表(删除)"
+        },
+        {
+            "checked": false,
+            "BfId": 148,
+            "BfName": "建筑规划管理建设项目会审表_上市局"
+        },
+        {
+            "checked": false,
+            "BfId": 149,
+            "BfName": "建筑规划管理建设项目会审表_分局会"
+        },
+        {
+            "checked": false,
+            "BfId": 150,
+            "BfName": "建设项目规划管理报建审查复函"
+        },
+        {
+            "checked": false,
+            "BfId": 151,
+            "BfName": "建筑规划管理建设项目会审表"
+        },
+        {
+            "checked": false,
+            "BfId": 767,
+            "BfName": "通用复函"
+        }
+    ]
+}
