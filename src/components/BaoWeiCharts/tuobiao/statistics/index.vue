@@ -101,7 +101,14 @@
         </div>
         <!-- 筛选模块 -->
         <where ref="where" @whereSubmit="whereSubmit"></where>
-        <div class="statistics-content" @click="statisticsContentClick">
+        <div
+          class="statistics-content"
+          @click="statisticsContentClick"
+          v-loading="!statisticsAll.data"
+          element-loading-text="拼命加载中"
+          element-loading-spinner="el-icon-loading"
+          element-loading-background="rgba(0, 0, 0, 0.2)"
+        >
           <!-- 列表展示 -->
           <list
             v-if="settingForm.displayMode == 'list'"

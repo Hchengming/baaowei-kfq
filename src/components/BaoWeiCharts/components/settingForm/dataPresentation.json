@@ -4,6 +4,10 @@
       "title": "列表展示"
     },
     {
+      "type": "table",
+      "title": "表格"
+    },
+    {
       "type": "pie",
       "title": "饼图展示"
     },
@@ -22,9 +26,5 @@
     {
       "type": "line",
       "title": "折线图展示"
-    },
-    {
-      "type": "table",
-      "title": "表格"
     }
   ]

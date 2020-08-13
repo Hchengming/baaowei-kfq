@@ -106,13 +106,13 @@ export default {
     tablePageSort(moduleId, currentPage) {
       let offon = true
       // eslint-disable-next-line no-unused-vars
-      let obj={};
+      let obj = {}
       this.pageData.forEach((item, index) => {
         if (item.moduleId == moduleId) {
-           obj.index=index;
-           obj.pageSize=item.contentAreaConfig.pageSize;
-           obj.currentPage=currentPage;
-           obj.url=item.contentAreaConfig.url;
+          obj.index = index
+          obj.pageSize = item.contentAreaConfig.pageSize
+          obj.currentPage = currentPage
+          obj.url = item.contentAreaConfig.url
 
           if (item.parentModuleId) {
             // 子级页面分页--测试
@@ -139,9 +139,10 @@ export default {
           let status = res.data.status
           let reqData = res.data.data
           if (status == 0) {
-
             this.pageData = reqData
             reqData.forEach((item, index) => {
+              // console.log(item)
+              // item.isLoading=true;
               let keys = []
               item.contentAreaConfig.keyArr.forEach(obj => {
                 keys.push(obj.key)
@@ -160,7 +161,9 @@ export default {
 
                 obj.pageSize = item.contentAreaConfig.pageSize
               }
-              this.getTableData(obj)
+              setTimeout(() => {
+                this.getTableData(obj)
+              }, 500)
             })
           }
           this.$refs['settingForm'].close()
@@ -188,7 +191,6 @@ export default {
               'paginationAll',
               resData.paginationAll
             )
-
           }
         })
         .catch(msg => {
@@ -205,5 +207,3 @@ export default {
   bottom: 10px;
 }
 </style>
-
-

@@ -438,10 +438,13 @@ body {
   width: 172px;
 }
 .settingForm .el-form-item {
-  margin-bottom: 12px;
+  margin-bottom: 5px;
 }
 .settingForm .el-form-item__content {
   line-height: 34px;
+}
+.settingForm .zdpz_box.mt {
+  margin-top: 12px;
 }
 .settingForm .zdpz_box .el-form-item__content {
   position: relative;

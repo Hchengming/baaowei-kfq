@@ -31,7 +31,7 @@ export default {
    color:$--color-primary !important;
 }
 .theme-bg-color{
-    background:$--color-primary;
+    background:$--color-primary !important;
 }
 .theme-box-shadow{
     box-shadow: 0 0 5px $--color-primary;

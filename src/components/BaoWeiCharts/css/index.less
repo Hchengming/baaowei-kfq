@@ -546,27 +546,31 @@ body {
     }
 
     .el-form-item {
-        margin-bottom: 12px;
+        margin-bottom: 5px;
     }
 
     .el-form-item__content {
         line-height: 34px;
     }
 
-    .zdpz_box .el-form-item__content {
-        // border: 1px solid #dcdcd8;
-        position: relative;
-
-        .tips {
-            position: absolute;
-            font-size: 12px;
-            top: -25px;
-            left: 0;
-            color: #E6A23C;
-            height: 0;
+    .zdpz_box{
+        &.mt{
+            margin-top: 12px;
         }
-        
-    }
+        .el-form-item__content {
+            // border: 1px solid #dcdcd8;
+            position: relative;
+            .tips {
+                position: absolute;
+                font-size: 12px;
+                top: -25px;
+                left: 0;
+                color: #E6A23C;
+                height: 0;
+            }
+            
+        }
+    } 
     .zdpz_list{
         display: inline-block;
         border-right: 1px solid @border;
